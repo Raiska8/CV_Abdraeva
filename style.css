@@ -468,8 +468,6 @@ footer {
   .nav-list :last-child::after {
     display: none;
   }
-  /*--------------------*/
-
   .main {
     flex-direction: column;
     margin-top: 0;
