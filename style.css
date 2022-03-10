@@ -65,7 +65,7 @@ pre {
 }
 
 body {
-  background-color: #181818;
+  background-color: #252525;
   font-family: 'Open Sans';
   font-weight: 100;
   margin: 0;
@@ -90,7 +90,7 @@ p {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
-  background-color: #0c0c0c;
+  background-color: #272626;
   color: #ffffff;
 }
 
